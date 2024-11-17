@@ -79,7 +79,7 @@ do
         Description = "This is a slider",
         Default = 2,
         Min = 0,
-        Max = 100,
+        Max = 10,
         Rounding = 1,
         Callback = function(Value)
              getgenv().TpWalking = true
